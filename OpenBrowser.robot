@@ -28,4 +28,4 @@ Search topic
     Click Button  name=btnK
 
 *** Comments ***
-Here is a comment text.
+Here is a comment text. Edited.
